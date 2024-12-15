@@ -75,19 +75,62 @@ Hệ thống tuân theo kiến trúc **MVC**, tận dụng **Thymeleaf** để h
 
 ## Các Giao Diện Chính
 
-1. **Giao Diện Chính**: Tổng quan bảng điều khiển.  
-2. **Quản Lý Ứng Viên**:  
-   - Danh sách ứng viên.  
-   - Thêm hoặc chỉnh sửa thông tin ứng viên.  
-   - Gợi ý công việc và kỹ năng.  
-3. **Quản Lý Công Ty**:  
-   - Danh sách công ty.  
-   - Thêm hoặc chỉnh sửa thông tin công ty.  
-4. **Quản Lý Công Việc**:  
-   - Danh sách công việc.  
-   - Liên kết công việc với các công ty.  
-   - Xem danh sách ứng viên phù hợp.  
-5. **Gửi Email**: Gửi thư mời phỏng vấn tự động cho ứng viên.  
+### 1. **Giao Diện Chính**  
+Tổng quan bảng điều khiển.  
+![image](https://github.com/user-attachments/assets/57a63802-a473-455a-b9a1-c58c317b69b7)
+
+---
+
+### 2. **Quản Lý Ứng Viên**  
+#### - Danh sách ứng viên  
+![image](https://github.com/user-attachments/assets/379c93de-5d06-46d3-98c1-d12c6e427578)
+
+#### - Thêm thông tin ứng viên  
+![image](https://github.com/user-attachments/assets/2f5def27-5a18-4fc8-b8d6-4ff0af783495)
+
+
+#### - Chỉnh sửa thông tin ứng viên  
+![image](https://github.com/user-attachments/assets/d1d874b4-be28-4593-8b41-73189ced9dd7)
+
+
+#### - Gợi ý công việc và kỹ năng  
+![image](https://github.com/user-attachments/assets/c02a9a1e-fb21-4503-8c71-68c054a550ef)
+
+#### - Danh sách ứng viên không phân trang  
+![image](https://github.com/user-attachments/assets/5a0bc716-0821-4f83-9fba-1e3ef39fb32e)
+
+---
+
+### 3. **Quản Lý Công Ty**  
+#### - Danh sách công ty  
+![image](https://github.com/user-attachments/assets/bcf58f6d-3224-4101-b02d-565a13704840)
+
+
+#### - Thêm thông tin công ty  
+![image](https://github.com/user-attachments/assets/0248a9fe-8753-4130-866b-0f321495febf)
+
+#### - Chỉnh sửa thông tin công ty  
+![image](https://github.com/user-attachments/assets/b54b65ef-4c57-44f6-9d14-3a3474f1a9a6)
+
+---
+
+### 4. **Quản Lý Công Việc**  
+#### - Danh sách công việc  
+![image](https://github.com/user-attachments/assets/c7e3823d-ed5e-4c95-acce-ebf377176147)
+
+#### - Liên kết công việc với các công ty  
+![image](https://github.com/user-attachments/assets/86db4111-29da-432a-b7f9-cc76d3ceeba2)
+
+
+#### - Xem danh sách ứng viên phù hợp  
+![image](https://github.com/user-attachments/assets/6dbdbc64-f954-4aec-b6e0-42f2679d0e3a)
+
+---
+
+### 5. **Gửi Email**  
+Gửi thư mời phỏng vấn tự động cho ứng viên.  
+![image](https://github.com/user-attachments/assets/b6483c00-92af-43ea-9b2a-e3ad03369534)
+
 
 ---
 
