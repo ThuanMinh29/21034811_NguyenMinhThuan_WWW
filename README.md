@@ -1,4 +1,8 @@
-# 21034811_NguyenMinhThuan_WWW
+# 21034811_NguyenMinhThuan_DHKTPM17A
+Họ tên: Nguyễn Minh Thuận
+Mã số sinh viên: 21034811
+Lớp: DHKTPM17A
+Giáo viên hướng dẫn: Võ Văn Hải
 **Giới Thiệu**
 
 Dự án này là một ứng dụng web được thiết kế để quản lý thông tin ứng viên và công ty trong lĩnh vực tuyển dụng. Ứng dụng được xây dựng bằng Spring Boot, tích hợp với MariaDB để quản lý dữ liệu và sử dụng Bootstrap nhằm đảm bảo giao diện thân thiện với người dùng. Hệ thống tuân theo kiến trúc MVC, tận dụng Thymeleaf để hiển thị nội dung động và Spring Data JPA để tương tác hiệu quả với cơ sở dữ liệu.
